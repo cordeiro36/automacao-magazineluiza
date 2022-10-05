@@ -1,0 +1,13 @@
+{
+  "name": "automacao-magazineluiza",
+  "version": "1.0.0",
+  "description": "Projeto de automacao em cypress",
+  "main": "index.js",
+  "author": "Rafael",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
